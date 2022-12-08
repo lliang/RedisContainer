@@ -1,6 +1,6 @@
 {
   "image": "mcr.microsoft.com/devcontainers/universal:2",
   "features": {
-  },
-  "build": {"dockerfile": "Dockerfile"}
+    "ghcr.io/devcontainers/features/docker-in-docker:2": {}
+  }
 }
